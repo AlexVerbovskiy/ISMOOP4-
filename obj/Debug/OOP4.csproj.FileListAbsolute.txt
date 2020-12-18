@@ -1,0 +1,13 @@
+C:\Users\cofee\OneDrive\Робочий стіл\ISM\OOP4\bin\Debug\OOP4.exe.config
+C:\Users\cofee\OneDrive\Робочий стіл\ISM\OOP4\bin\Debug\OOP4.exe
+C:\Users\cofee\OneDrive\Робочий стіл\ISM\OOP4\bin\Debug\OOP4.pdb
+C:\Users\cofee\OneDrive\Робочий стіл\ISM\OOP4\bin\Debug\ClassOOP4.dll
+C:\Users\cofee\OneDrive\Робочий стіл\ISM\OOP4\bin\Debug\ClassOOP4.pdb
+C:\Users\cofee\OneDrive\Робочий стіл\ISM\OOP4\obj\Debug\OOP4.csprojAssemblyReference.cache
+C:\Users\cofee\OneDrive\Робочий стіл\ISM\OOP4\obj\Debug\OOP4.Form1.resources
+C:\Users\cofee\OneDrive\Робочий стіл\ISM\OOP4\obj\Debug\OOP4.Properties.Resources.resources
+C:\Users\cofee\OneDrive\Робочий стіл\ISM\OOP4\obj\Debug\OOP4.csproj.GenerateResource.cache
+C:\Users\cofee\OneDrive\Робочий стіл\ISM\OOP4\obj\Debug\OOP4.csproj.CoreCompileInputs.cache
+C:\Users\cofee\OneDrive\Робочий стіл\ISM\OOP4\obj\Debug\OOP4.csproj.CopyComplete
+C:\Users\cofee\OneDrive\Робочий стіл\ISM\OOP4\obj\Debug\OOP4.exe
+C:\Users\cofee\OneDrive\Робочий стіл\ISM\OOP4\obj\Debug\OOP4.pdb
